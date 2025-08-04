@@ -260,3 +260,4 @@ C:\Users\Acer\Desktop\C# dotnet\New folder\online shopping\OnlineShopping\bin\De
 C:\Users\Acer\Desktop\C# dotnet\New folder\online shopping\OnlineShopping\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
 C:\Users\Acer\Desktop\C# dotnet\New folder\online shopping\OnlineShopping\obj\Debug\net8.0\OnlineShopping.csproj.AssemblyReference.cache
 C:\Users\Acer\Desktop\C# dotnet\New folder\online shopping\OnlineShopping\obj\Debug\net8.0\OnlineSh.07DC743E.Up2Date
+C:\Users\Acer\Desktop\C# dotnet\New folder\online shopping\OnlineShopping\obj\Debug\net8.0\OnlineShopping.sourcelink.json

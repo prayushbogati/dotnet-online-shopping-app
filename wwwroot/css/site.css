@@ -24,3 +24,7 @@ body {
 .navbar-nav{
     background-color: white;
 }
+
+.errorMessage{
+    color: red;
+}

@@ -3,24 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Acer\\Desktop\\C# dotnet\\New folder\\online shopping\\OnlineShopping\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E2AFB5B0-65CF-4172-AB9D-26F30180B5C0}|OnlineShopping.csproj|c:\\users\\acer\\desktop\\c# dotnet\\new folder\\online shopping\\onlineshopping\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2AFB5B0-65CF-4172-AB9D-26F30180B5C0}|OnlineShopping.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E2AFB5B0-65CF-4172-AB9D-26F30180B5C0}|OnlineShopping.csproj|c:\\users\\acer\\desktop\\c# dotnet\\new folder\\online shopping\\onlineshopping\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E2AFB5B0-65CF-4172-AB9D-26F30180B5C0}|OnlineShopping.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E2AFB5B0-65CF-4172-AB9D-26F30180B5C0}|OnlineShopping.csproj|c:\\users\\acer\\desktop\\c# dotnet\\new folder\\online shopping\\onlineshopping\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E2AFB5B0-65CF-4172-AB9D-26F30180B5C0}|OnlineShopping.csproj|solutionrelative:views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{E2AFB5B0-65CF-4172-AB9D-26F30180B5C0}|OnlineShopping.csproj|c:\\users\\acer\\desktop\\c# dotnet\\new folder\\online shopping\\onlineshopping\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2AFB5B0-65CF-4172-AB9D-26F30180B5C0}|OnlineShopping.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E2AFB5B0-65CF-4172-AB9D-26F30180B5C0}|OnlineShopping.csproj|c:\\users\\acer\\desktop\\c# dotnet\\new folder\\online shopping\\onlineshopping\\models\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E2AFB5B0-65CF-4172-AB9D-26F30180B5C0}|OnlineShopping.csproj|solutionrelative:models\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2AFB5B0-65CF-4172-AB9D-26F30180B5C0}|OnlineShopping.csproj|c:\\users\\acer\\desktop\\c# dotnet\\new folder\\online shopping\\onlineshopping\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2AFB5B0-65CF-4172-AB9D-26F30180B5C0}|OnlineShopping.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E2AFB5B0-65CF-4172-AB9D-26F30180B5C0}|OnlineShopping.csproj|c:\\users\\acer\\desktop\\c# dotnet\\new folder\\online shopping\\onlineshopping\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{E2AFB5B0-65CF-4172-AB9D-26F30180B5C0}|OnlineShopping.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2AFB5B0-65CF-4172-AB9D-26F30180B5C0}|OnlineShopping.csproj|c:\\users\\acer\\desktop\\c# dotnet\\new folder\\online shopping\\onlineshopping\\data\\onlineshoppingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2AFB5B0-65CF-4172-AB9D-26F30180B5C0}|OnlineShopping.csproj|solutionrelative:data\\onlineshoppingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2AFB5B0-65CF-4172-AB9D-26F30180B5C0}|OnlineShopping.csproj|c:\\users\\acer\\desktop\\c# dotnet\\new folder\\online shopping\\onlineshopping\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2AFB5B0-65CF-4172-AB9D-26F30180B5C0}|OnlineShopping.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E2AFB5B0-65CF-4172-AB9D-26F30180B5C0}|OnlineShopping.csproj|c:\\users\\acer\\desktop\\c# dotnet\\new folder\\online shopping\\onlineshopping\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -35,10 +43,6 @@
       "RelativeMoniker": "D:0:0:{E2AFB5B0-65CF-4172-AB9D-26F30180B5C0}|OnlineShopping.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2AFB5B0-65CF-4172-AB9D-26F30180B5C0}|OnlineShopping.csproj|c:\\users\\acer\\desktop\\c# dotnet\\new folder\\online shopping\\onlineshopping\\data\\onlineshoppingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2AFB5B0-65CF-4172-AB9D-26F30180B5C0}|OnlineShopping.csproj|solutionrelative:data\\onlineshoppingcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E2AFB5B0-65CF-4172-AB9D-26F30180B5C0}|OnlineShopping.csproj|c:\\users\\acer\\desktop\\c# dotnet\\new folder\\online shopping\\onlineshopping\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E2AFB5B0-65CF-4172-AB9D-26F30180B5C0}|OnlineShopping.csproj|solutionrelative:controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -50,11 +54,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\C# dotnet\\New folder\\online shopping\\OnlineShopping\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\C# dotnet\\New folder\\online shopping\\OnlineShopping\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-08-04T03:02:03.569Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -64,20 +81,20 @@
               "RelativeDocumentMoniker": "Views\\User\\Register.cshtml",
               "ToolTip": "C:\\Users\\Acer\\Desktop\\C# dotnet\\New folder\\online shopping\\OnlineShopping\\Views\\User\\Register.cshtml",
               "RelativeToolTip": "Views\\User\\Register.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-08-03T02:59:53.215Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "UserViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\C# dotnet\\New folder\\online shopping\\OnlineShopping\\Models\\UserViewModel.cs",
               "RelativeDocumentMoniker": "Models\\UserViewModel.cs",
               "ToolTip": "C:\\Users\\Acer\\Desktop\\C# dotnet\\New folder\\online shopping\\OnlineShopping\\Models\\UserViewModel.cs",
               "RelativeToolTip": "Models\\UserViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-03T02:51:18.5Z",
               "EditorCaption": ""
@@ -90,27 +107,27 @@
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\Acer\\Desktop\\C# dotnet\\New folder\\online shopping\\OnlineShopping\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACcAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-08-03T02:36:54.185Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\C# dotnet\\New folder\\online shopping\\OnlineShopping\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "Controllers\\UserController.cs",
               "ToolTip": "C:\\Users\\Acer\\Desktop\\C# dotnet\\New folder\\online shopping\\OnlineShopping\\Controllers\\UserController.cs",
               "RelativeToolTip": "Controllers\\UserController.cs",
-              "ViewState": "AgIAAEgAAAAAAAAAAAAmwEUAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAowGIAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-03T02:31:50.63Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\C# dotnet\\New folder\\online shopping\\OnlineShopping\\Models\\User.cs",
               "RelativeDocumentMoniker": "Models\\User.cs",
@@ -118,25 +135,24 @@
               "RelativeToolTip": "Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-31T03:06:01.248Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-31T03:06:01.248Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "OnlineShoppingContext.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\C# dotnet\\New folder\\online shopping\\OnlineShopping\\Data\\OnlineShoppingContext.cs",
               "RelativeDocumentMoniker": "Data\\OnlineShoppingContext.cs",
               "ToolTip": "C:\\Users\\Acer\\Desktop\\C# dotnet\\New folder\\online shopping\\OnlineShopping\\Data\\OnlineShoppingContext.cs",
               "RelativeToolTip": "Data\\OnlineShoppingContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-31T02:38:03.093Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\C# dotnet\\New folder\\online shopping\\OnlineShopping\\Views\\Product\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Product\\Index.cshtml",
@@ -144,12 +160,11 @@
               "RelativeToolTip": "Views\\Product\\Index.cshtml",
               "ViewState": "AgIAABgAAAAAAAAAAAAAACYAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-29T02:48:43.597Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-29T02:48:43.597Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\C# dotnet\\New folder\\online shopping\\OnlineShopping\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
@@ -161,7 +176,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "ProductDashboard.cshtml",
               "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\C# dotnet\\New folder\\online shopping\\OnlineShopping\\Views\\Product\\ProductDashboard.cshtml",
               "RelativeDocumentMoniker": "Views\\Product\\ProductDashboard.cshtml",
@@ -173,7 +188,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "CategoriesController.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\C# dotnet\\New folder\\online shopping\\OnlineShopping\\Controllers\\CategoriesController.cs",
               "RelativeDocumentMoniker": "Controllers\\CategoriesController.cs",
