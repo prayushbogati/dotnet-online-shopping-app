@@ -1,0 +1,28 @@
+﻿@model IEnumerable<OnlineShopping.Models.Product>
+
+@{
+    ViewData["Title"] = "Product Dashboard";
+}
+
+<h1>Product Dashboard</h1>
+    <form asp-action="ProductDashboard" method="post">
+Title: <input type="text" name="Title" value="" />
+<input type="submit" value="Search" />
+</form>
+<table class="table">
+
+    <tbody>
+        <tr>
+            @foreach (var item in Model)
+            {
+                <td>
+                    <img src="@item.productImage" width="100px" /> <br />
+                    @Html.DisplayFor(modelItem => item.title)<br />
+                    Price: Rs.  @Html.DisplayFor(modelItem => item.price)<br />
+                    @Html.DisplayFor(modelItem => item.Category.name) <br />
+                    <a asp-action="Details" asp-route-id="@item.id">Details</a> |
+                </td>
+            }
+        </tr>
+    </tbody>
+</table>
