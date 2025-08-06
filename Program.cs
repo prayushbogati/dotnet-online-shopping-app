@@ -1,9 +1,12 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.AspNetCore.Authentication.Cookies;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using OnlineShopping.Data;
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddDbContext<OnlineShoppingContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("OnlineShoppingContext") ?? throw new InvalidOperationException("Connection string 'OnlineShoppingContext' not found.")));
+
+builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme).AddCookie(options => options.LoginPath = new PathString("/User/Login"));
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
@@ -22,7 +25,7 @@ app.UseHttpsRedirection();
 app.UseStaticFiles();
 
 app.UseRouting();
-
+app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapControllerRoute(

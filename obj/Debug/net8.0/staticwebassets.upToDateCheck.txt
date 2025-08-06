@@ -1,3 +1,4 @@
+wwwroot\css\site.css
 wwwroot\favicon.ico
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
@@ -61,4 +62,3 @@ wwwroot\ProductImages\car.webp
 wwwroot\ProductImages\download (1).jpeg
 wwwroot\ProductImages\download.jpeg
 wwwroot\ProductImages\romanized-nepali-unicode-keyboard-layout.png
-wwwroot\css\site.css

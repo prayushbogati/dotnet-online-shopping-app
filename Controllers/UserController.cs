@@ -1,12 +1,15 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+﻿using Microsoft.AspNetCore.Authentication;
+using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using OnlineShopping.Data;
 using OnlineShopping.Models;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Security.Claims;
+using System.Threading.Tasks;
 
 namespace OnlineShopping.Controllers
 {
@@ -93,14 +96,51 @@ namespace OnlineShopping.Controllers
                     user.UserName = userViewModel.UserName;
                     user.Password = userViewModel.Password;
                     user.UserType = "normal";
-
                     _context.Add(user);
                     await _context.SaveChangesAsync();
-                    return RedirectToAction(nameof(Index));
+                    return RedirectToAction("ProductDashboard", "Product");
+                }
+            }
+            return View(userViewModel);
+        }
+
+
+        // GET: User/Login
+        public IActionResult Login()
+        {
+            return View();
+        }
+
+        // POST: User/Login
+        // To protect from overposting attacks, enable the specific properties you want to bind to.
+        // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> Login([Bind("UserName,Password")] LoginViewModel loginViewModel)
+        {
+            if (ModelState.IsValid)
+            {
+                var userExist = (from u in _context.User where u.UserName == loginViewModel.UserName && u.Password == loginViewModel.Password select u).ToList();
+                if (userExist.Count > 0)
+                {
+                    List<Claim> claims = new List<Claim>();
+                    Claim claim = new Claim(ClaimTypes.Email, userExist[0].UserName);
+                    Claim claim1 = new Claim(ClaimTypes.Role, userExist[0].UserType);
+                    claims.Add(claim);
+                    claims.Add(claim1);
+                    ClaimsIdentity claimsIdentity = new ClaimsIdentity(claims, CookieAuthenticationDefaults.AuthenticationScheme);
+                    ClaimsPrincipal claimsPrincipal = new ClaimsPrincipal(claimsIdentity);
+                    await HttpContext.SignInAsync(CookieAuthenticationDefaults.AuthenticationScheme, claimsPrincipal);
+                    return RedirectToAction("ProductDashboard", "Product");
+                }
+                else
+                {
+                    ViewData["ErrorMessage"] = "User or password incorrect";
+
                 }
 
             }
-            return View(userViewModel);
+            return View(loginViewModel);
         }
 
         // GET: User/Edit/5
